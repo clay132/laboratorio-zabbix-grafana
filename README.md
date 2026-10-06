@@ -31,7 +31,7 @@ Dashboard desenvolvido no Grafana para visualizar as informações coletadas pel
 > A imagem abaixo apresenta o resultado do dashboard desenvolvido durante o laboratório.
 
 ![Dashboard Grafana](grafana.png)
-
+![Dashboard Grafana](zabbix.png)
 ## Aprendizados
 
 Este laboratório contribuiu para a prática de conceitos relacionados a:
